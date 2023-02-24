@@ -1,5 +1,59 @@
 # Student-Evaluation-Analysis
 
+This project analyzes the student evaluation dataset to identify the key factors that affect a course's overall evaluation and predict the expected course rating. The 
+
+dataset contains 463 observations and 28 variables, including demographic information of the students and course attributes such as instructor's expertise, course 
+
+difficulty, course workload, and more.
+
+Dataset
+
+The dataset used for this project is the Student Evaluation of Teaching and Courses dataset, which was collected from the University of Wisconsin–Madison. The dataset 
+
+contains 463 observations and 28 variables, including demographic information of the students and course attributes such as instructor's expertise, course difficulty, 
+
+course workload, and more.
+
+Model
+
+The analysis is done using Python, and the models are built using the Scikit-learn and Statsmodels libraries. The project is divided into two parts: exploratory data 
+
+analysis (EDA) and predictive modeling. In the EDA part, various visualizations and statistical tests are performed to understand the relationships between the 
+
+variables and identify the key factors that affect the overall course evaluation. In the predictive modeling part, linear regression and decision tree models are built 
+
+to predict the expected course rating.
+
+Technologies Used
+
+Python
+
+Pandas Library
+
+NumPy Library
+
+Scikit-learn Library
+
+Statsmodels Library
+
+Matplotlib Library
+
+Seaborn Library
+
+Installation
+
+pip install pandas
+
+pip install numpy
+
+pip install scikit-learn
+
+pip install statsmodels
+
+pip install matplotlib
+
+pip install seaborn
+
 Dataset Information: 
 
 This data set contains a total 5820 evaluation scores provided by students from Gazi University in Ankara (Turkey). There is a total of 28 course specific questions 
@@ -97,3 +151,11 @@ Principal Component Analysis
 Kmeans Clustering
 
 Agglomerative Clustering
+
+Conclusion
+
+This project analyzes the Student Evaluation of Teaching and Courses dataset to identify the key factors that affect a course's overall evaluation and predict the 
+
+expected course rating. The project demonstrates how to perform exploratory data analysis using Python and build predictive models using Scikit-learn and Statsmodels 
+
+libraries. The results of this analysis can be used by universities and educators to improve their teaching methods and course offerings.
