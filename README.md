@@ -1,8 +1,8 @@
 # Student-Evaluation-Analysis
 
-This project analyzes the student evaluation dataset to identify the key factors that affect a course's overall evaluation and predict the expected course rating. The 
+This project analyzes the student evaluation dataset to identify the key factors that affect a course's overall evaluation and predict the expected course rating.
 
-dataset contains 463 observations and 28 variables, including demographic information of the students and course attributes such as instructor's expertise, course 
+The dataset contains 463 observations and 28 variables, including demographic information of the students and course attributes such as instructor's expertise, course 
 
 difficulty, course workload, and more.
 
